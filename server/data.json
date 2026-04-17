@@ -1,0 +1,447 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo foydalanuvchi",
+      "email": "demo@ait.uz",
+      "phone": "+998901234567",
+      "passwordHash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+      "settings": {
+        "lang": "uz",
+        "notif": true,
+        "sound": true
+      },
+      "history": [
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "c995d12f-35a4-48a6-aebb-82f8c1a093a4",
+          "createdAt": "2026-04-16T08:25:16.968Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "humoyun",
+      "email": "humoyunkozimov0@gmail.com",
+      "phone": "946190616",
+      "passwordHash": "256b8727cbfde489104bb307b658d7f8913c853be8accd88e209f9820f6f1b81",
+      "settings": {
+        "lang": "uz",
+        "notif": true,
+        "sound": true
+      },
+      "history": [
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b2-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a*b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin2x+cos2x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "an=a1+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta togri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "3ee890ab-8189-4893-a7b5-92bd05edd30c",
+          "createdAt": "2026-04-17T10:10:26.750Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "e06c61c8-ef61-49ce-8000-d8856ea55e7b",
+          "createdAt": "2026-04-17T09:54:22.699Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "1fc49f33-ffba-4608-8a1e-59a9f576b2bf",
+          "createdAt": "2026-04-16T18:18:00.598Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "e1dc98a1-5497-4fdb-8f5c-121b3ff6d926",
+          "createdAt": "2026-04-16T16:24:51.243Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "0747f921-9ebb-4b1b-b9aa-6f9a205bccae",
+          "createdAt": "2026-04-16T16:23:48.148Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "e53bc3e0-a82a-4ad5-83c5-6258d31965e8",
+          "createdAt": "2026-04-16T06:25:42.451Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "d06d0695-644b-4b75-9c46-a09bf0ba6c81",
+          "createdAt": "2026-04-16T06:22:17.167Z"
+        },
+        {
+          "subject": "Matematika",
+          "totalQuestions": 20,
+          "score": 65,
+          "wrongAnswers": [
+            {
+              "questionNumber": 3,
+              "topic": "Kvadrat tenglamalar",
+              "studentAnswer": "B",
+              "correctAnswer": "A",
+              "explanation": "D=b²-4ac formulasida xato."
+            },
+            {
+              "questionNumber": 7,
+              "topic": "Logarifm",
+              "studentAnswer": "C",
+              "correctAnswer": "D",
+              "explanation": "log(a·b)=log(a)+log(b) qoidasi unutilgan."
+            },
+            {
+              "questionNumber": 9,
+              "topic": "Trigonometriya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "sin²x+cos²x=1 identligi unutilgan."
+            },
+            {
+              "questionNumber": 14,
+              "topic": "Funksiya grafigi",
+              "studentAnswer": "D",
+              "correctAnswer": "B",
+              "explanation": "Parabola ildizlari x o'qi bilan kesishadi."
+            },
+            {
+              "questionNumber": 18,
+              "topic": "Progressiya",
+              "studentAnswer": "A",
+              "correctAnswer": "C",
+              "explanation": "aₙ=a₁+(n-1)d formulasida xato."
+            }
+          ],
+          "summary": "13 ta to'g'ri, 7 ta xato. Logarifm va trigonometriyani mustahkamlash kerak.",
+          "id": "c8cd9c77-8b2e-4eae-b92a-88774b3a0325",
+          "createdAt": "2026-04-16T05:45:40.766Z"
+        }
+      ],
+      "todos": []
+    }
+  ],
+  "sessions": {
+    "5b793887-343f-4e70-9759-48318ae4e430": 1,
+    "da02197a-bc34-49a5-9e1d-f76f0e81ef91": 2,
+    "8b6ab02b-119c-4e0c-b70b-ccb7b82174a4": 1,
+    "36bb15fe-504c-4095-b6a8-96542f7cc3a2": 2,
+    "0e1b8815-a092-40db-9f9e-deb45a4edddc": 1,
+    "f6877176-3ca8-45a6-8adb-ff2c19426bc3": 2
+  },
+  "nextUserId": 3
+}
